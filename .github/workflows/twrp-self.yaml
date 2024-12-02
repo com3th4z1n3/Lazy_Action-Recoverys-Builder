@@ -1,4 +1,4 @@
-name: TeamWin [TWRP]
+name: self-hosted
 
 on:
   workflow_dispatch:
